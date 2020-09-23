@@ -1,0 +1,13 @@
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\bin\Debug\netcoreapp3.1\xml.exe
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\bin\Debug\netcoreapp3.1\xml.deps.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\bin\Debug\netcoreapp3.1\xml.runtimeconfig.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\bin\Debug\netcoreapp3.1\xml.runtimeconfig.dev.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\bin\Debug\netcoreapp3.1\xml.dll
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\bin\Debug\netcoreapp3.1\xml.pdb
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\obj\Debug\netcoreapp3.1\xml.csprojAssemblyReference.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\obj\Debug\netcoreapp3.1\xml.AssemblyInfoInputs.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\obj\Debug\netcoreapp3.1\xml.AssemblyInfo.cs
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\obj\Debug\netcoreapp3.1\xml.csproj.CoreCompileInputs.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\obj\Debug\netcoreapp3.1\xml.dll
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\obj\Debug\netcoreapp3.1\xml.pdb
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\XMLövning\xml\obj\Debug\netcoreapp3.1\xml.genruntimeconfig.cache
